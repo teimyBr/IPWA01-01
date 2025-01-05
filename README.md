@@ -5,3 +5,5 @@ https://www.pexels.com/de-de/foto/gelbes-und-rotes-t-shirt-uber-ein-gestell-gewo
 https://www.pexels.com/de-de/foto/schwarz-weiss-foto-eines-uberfluteten-vorstadthauses-28447778/
 https://www.pexels.com/de-de/foto/verschiedene-kleidungsstucke-996329/
 https://www.pexels.com/de-de/foto/30079887/
+https://www.pexels.com/de-de/foto/strasse-dreckig-zerbrochen-kaputt-6929741/
+
