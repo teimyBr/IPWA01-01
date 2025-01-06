@@ -23,7 +23,7 @@
 
 ## Quelle Bilder
 
-* [Logog](https://www.pexels.com/de-de/foto/gelbes-und-rotes-t-shirt-uber-ein-gestell-geworfen-8146448/)
+* [Logo](https://www.pexels.com/de-de/foto/gelbes-und-rotes-t-shirt-uber-ein-gestell-geworfen-8146448/)
 * [Hochwasser](https://www.pexels.com/de-de/foto/schwarz-weiss-foto-eines-uberfluteten-vorstadthauses-28447778/)
 * [Kleidung](https://www.pexels.com/de-de/foto/verschiedene-kleidungsstucke-996329/)
 * [Kälte](https://www.pexels.com/de-de/foto/30079887/)
