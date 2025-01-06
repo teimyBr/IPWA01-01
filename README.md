@@ -17,9 +17,9 @@
 * sites
     * weitere HTML Seiten
 * scripts
-    *JavaScript Dateien
+    * JavaScript Dateien
 * assets
-    *Ablage von Bildern
+    * Ablage von Bildern
 
 ## Quelle Bilder
 
