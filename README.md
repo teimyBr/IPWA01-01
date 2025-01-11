@@ -11,7 +11,7 @@
 ## Strukur
 
 * Readme.md
-    * Beschreibung des Projektes, Strukur und Links 
+    * Beschreibung des Projektes, Struktur und Links 
 * index.html
     * Startseite der Website
 * sites
@@ -31,5 +31,5 @@
 
 ## Sonstige Quellen
 
-* [Impressum](https://jurarat.de/muster-impressum)
-* [Datenschutz](https://www.ldi.nrw.de/datenschutz/medien-und-technik/websites-muster-fuer-datenschutzhinweise)
+* [Impressum](https://jurarat.de/muster-impressum) von Jurarat
+* [Datenschutz](https://www.ldi.nrw.de/datenschutz/medien-und-technik/websites-muster-fuer-datenschutzhinweise) von LDI NRW
